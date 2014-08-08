@@ -8,13 +8,13 @@ Python 2.6 or higher
 
 <b>Usage</b>
 
-python text_compressor.py source_dir destination_dir
+     python text_compressor.py source_dir destination_dir
 
 The above command creates a new directory named <i>destination_dir</i> in the same root directory 
 as the directory named <i>source_dir</i> with all text files compressed.
 
 
-python text_compressor.py filename
+     python text_compressor.py filename
 
 The above command compresses the file named <i>filename</i> and <u>overwrites it</u>
 
